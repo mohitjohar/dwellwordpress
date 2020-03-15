@@ -1,0 +1,21 @@
+{
+  "name": "devworks/gravityforms-html5-validation",
+  "type": "wordpress-plugin",
+  "description": "Adds native HTML5 validation support to Gravity Forms' fields. Javascript & jQuery are required.",
+  "license": "GPL",
+  "homepage": "https://gitlab.devworks.gr/plugins/gravityforms-html5-validation",
+  "authors": [
+    {
+      "name": "DevWorks",
+      "email": "developer@devworks.gr",
+      "homepage": "http://www.devworks.gr"
+    }
+  ],
+  "keywords": [
+    "html5", "validation", "forms", "gravity", "gravityforms", "wp", "wordpress", "plugin"
+  ],
+  "support": {
+    "issues": "https://gitlab.devworks.gr/plugins/gravityforms-html5-validation/issues",
+    "wiki": "https://gitlab.devworks.gr/plugins/gravityforms-html5-validation/wikis/home"
+  }
+}

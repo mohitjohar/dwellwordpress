@@ -1,0 +1,8 @@
+PHP Code Sniffer:
+  script:
+    - phpcs --standard=ruleset.xml --extensions=php --ignore=languages,js/ -n -s .
+  tags:
+    - php
+    - phpcs
+  except:
+    - tags
